@@ -3,16 +3,16 @@
 ## Ingredientes <!-- TODO: Poner las cantidades exactas -->
 
 
-<table class="Ingredientes">
+<table>
 
   <tr>
 
-    <th>Ingredientes</th>
+    <td>Ingredientes</td>
 
-    <th>Cantidades</th>
+    <td>Cantidades</td>
 
   </tr>
-
+</table>
   <tr>
 
     <td>Azúcar</td>
