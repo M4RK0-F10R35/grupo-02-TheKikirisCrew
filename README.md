@@ -2,57 +2,13 @@
 
 ## Ingredientes <!-- TODO: Poner las cantidades exactas -->
 
-| First Header  | Second Header |
+| Ingredientes  | Cantidades |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-<table>
-  <tr>
-    <td>Ingredientes</td>
-    <td>Cantidades</td>
-  </tr>
-</table>
-  <tr>
-    <td>Azúcar</td>
-    <td>2 tazas</td>
-  </tr>
-  <tr>
-    <td>huevos/h</td>
-
-    <td>6 huevos/h</td>
-
-
-  </tr>
-  
-   <tr>
-
-    <td>tarrinas de queso mascarpone/h</td>
-
-    <td>2 cucharas/h</td>
-
-
-  </tr>
-  
-  <tr>
-
-    <td>Cacao puro en polvo/h</td>
-
-    <td>3 cucharadas</td>
-
-
-
-  </tr>
-    <tr>
-
-    <td>Licor/h</td>
-
-    <td>(Amaretto o brandy en su defecto)/h</td>
-
- 
-
-  </tr>
-</table>
-
+| Azúcar  | 2 tazas  |
+| Huevos  | 6 Huevos  |
+| tarrinas de queso mascarpone  | 2 cucharas |
+| Cacao puro en polvo/  | 3 cucharadas  |
+| Licor | (Amaretto o brandy en su defecto)  |
 
 ![Ingredientes](img/small_IMG_20180113_190935.jpg)
 
