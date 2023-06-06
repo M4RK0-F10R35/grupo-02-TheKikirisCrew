@@ -23,18 +23,30 @@
   <tr>
     <td>- Una batidora con un montador de claras (aunque a mano también se puede)</td>
  </table>
+ <table>
  <tr>
     <td>- Una barilla</td>
+    </table>
+   <table>
   <tr>
     <td>- Una lengua</td>
+     </table>
+    <table>
     <tr>
     <td>- Un colador pequeño</td>
+       </table>
+      <table>
       <tr>
     <td>- Una bandeja de 30x40 cm aprox.</td>
+         </table>
+        <table>
         <tr>
     <td>- 2 Boles, uno más grande que otro</td>
+           </table>
+          <table>
           <tr>
     <td>- (Opcional) Separador de claras</td>
+             </table>
 
 ![Hardware](img/small_IMG_20180113_192124.jpg)
 
