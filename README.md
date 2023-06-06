@@ -1,4 +1,4 @@
-# Biscochos "LENGUAS DE GATO"
+# TIRAMISU"
 
 ## Ingredientes <!-- TODO: Poner las cantidades exactas -->
 
