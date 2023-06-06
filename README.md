@@ -2,7 +2,7 @@
 
 ## Ingredientes <!-- TODO: Poner las cantidades exactas -->
 
-- Azúcar. (¡Mucho!)
+- Azúcar.
 - 2 tarrinas de queso mascarpone
 - 6 huevos
 - Cacao puro en polvo
