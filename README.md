@@ -2,7 +2,10 @@
 
 ## Ingredientes <!-- TODO: Poner las cantidades exactas -->
 
-
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 <table>
   <tr>
     <td>Ingredientes</td>
