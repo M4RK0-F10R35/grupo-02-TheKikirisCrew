@@ -7,7 +7,7 @@
 | Azúcar  | 2 tazas  |
 | Huevos  | 6 Huevos  |
 | tarrinas de queso mascarpone  | 2 cucharas |
-| Cacao puro en polvo/  | 3 cucharadas  |
+| Cacao puro en polvo  | 3 cucharadas  |
 | Licor | (Amaretto o brandy en su defecto)  |
 
 ![Ingredientes](img/small_IMG_20180113_190935.jpg)
@@ -19,13 +19,22 @@
 
 ## Hardware
 
-- Una batidora con un montador de claras (aunque a mano también se puede)
-- Una barilla
-- Una lengua
-- Un colador pequeño
-- Una bandeja de 30x40 cm aprox.
-- 2 Boles, uno más grande que otro
-- (Opcional) Separador de claras
+<table>
+  <tr>
+    <td>- Una batidora con un montador de claras (aunque a mano también se puede)</td>
+ </table>
+ <tr>
+    <td>- Una barilla</td>
+  <tr>
+    <td>- Una lengua</td>
+    <tr>
+    <td>- Un colador pequeño</td>
+      <tr>
+    <td>- Una bandeja de 30x40 cm aprox.</td>
+        <tr>
+    <td>- 2 Boles, uno más grande que otro</td>
+          <tr>
+    <td>- (Opcional) Separador de claras</td>
 
 ![Hardware](img/small_IMG_20180113_192124.jpg)
 
