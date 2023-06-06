@@ -4,26 +4,16 @@
 
 
 <table>
-
   <tr>
-
     <td>Ingredientes</td>
-
     <td>Cantidades</td>
-
   </tr>
 </table>
   <tr>
-
     <td>Azúcar</td>
-
     <td>2 tazas</td>
-
-
   </tr>
-
   <tr>
-
     <td>huevos/h</td>
 
     <td>6 huevos/h</td>
