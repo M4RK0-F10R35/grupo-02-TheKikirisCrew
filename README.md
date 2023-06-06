@@ -24,7 +24,6 @@
     <td>- Una batidora con un montador de claras (aunque a mano también se puede)</td>
  </table>
  <table>
- <tr>
     <td>- Una barilla</td>
     </table>
    <table>
