@@ -106,5 +106,5 @@
 
 ![Final](img/small_IMG_20180113_195702.jpg)
 
-- Por último, tapamos el tiramisú para que no se reseque y lo metemos en la nevera hasta el día siguiente. :yum:
+- Por último, tapamos el tiramisú para que no se reseque y lo metemos en la nevera hasta el día siguiente.
 
